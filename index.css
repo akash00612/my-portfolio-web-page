@@ -1,0 +1,74 @@
+body{
+    background-color: #00a8ff;
+}
+.content{
+    background-color: black;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    padding: 75px;
+    margin: 35px;
+    display: flex;
+}
+.content h1{
+    color: blue;
+}
+.matter{
+    position: relative;
+    width: 80vw;
+}
+.image{
+    position: relative;
+    /* padding: 120px; */
+    margin-left: 20px;
+}
+.pic{
+    height: 200px;
+    width: 200px;
+    
+}
+.contact{
+    height: 200px;
+    width: 600px;
+    background-color: blueviolet;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    padding: 20px;
+    text-align: center;
+}
+.about{
+    height: 200px;
+    width: 600px;
+    background-color: darkblue;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    padding: 20px;
+    text-align: center;
+}
+.project{
+    height: 200px;
+    width: 600px;
+    background-color: #ff4757;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    padding: 20px;
+    text-align: center;
+}
+.project button{
+    width: 100px;
+    border-radius: 25px;
+    text-align: center;
+    border: 2px solid white;
+   
+    background-color: yellow;
+    padding: 10px;
+    margin-top: 20px;
+}
+.project button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
